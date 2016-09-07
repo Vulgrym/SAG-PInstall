@@ -1,0 +1,43 @@
+  Nom : SAG-PInstall
+  Code : PintInstall
+  Auteur : Olivier GOMEZ
+  Création : 03/04/2016
+  Version actuelle : 20160410
+
+  PostInstall est composé de plusieurs scripts, on fera réference à l'ensemble 
+de ces scripts par le nom Meta-Script.
+  PostInstall dispose de quelques fichiers utiles à son fonctionnement.
+Ils seront dans le dossier Bin/Docs.
+  Les pages de 'manuel' seront dans le dossier Man
+
+  La documentation se compose de ce document ainsi que :
+une liste des paquets disponibles dans PostInstall
+une liste des services fournis par le Meta-Script
+une liste descriptive des recettes disponibles
+les notes de version
+une liste 'todo'
+une annexe contenant des fonctions et commandes (utiles) pour d'autres projets
+un document limitant la distribution et la modification de PostInstall
+une liste des contributions
+
+  Pour lancer PostInstall : ./PostInstall.sh
+Le menu permet de choisir l'installation correspondante aux besoins 
+(une liste descriptive disponible dans Man)
+les réponses autorisées sont toujours indiquées (1,2,3...y,n)
+
+  Actuellement toutes les commandes d'installation/téléchargement/purge sont
+indisponibles pour le temps de dévellopement initial
+(il est possible de les activer en décommentant les lignes adéquates)
+
+  Actuellement PostInstall est distribué en .zip de main à main
+aucune solution d'hebergement ne correspondant aux critères de l'auteur
+  Une demande de distribution sous une autre compression est envisageable
+  Après reception de PostInstall toute modification doit être documentée
+pour être ensuite transmise à l'auteur
+Pour les autres conditions de partage voir document 'Distribution'
+Il est recommandé de n'utiliser que la version officielle ou les forks officiels
+(Liste dans le fichier Contributions)(Verifier également le md5sum)
+
+  La documentation est en cours de rédaction, les informations ne sont pas
+complètes. Il peut manquer des documents. Ceux-ci peuvent être modifiés sans 
+changement de version ainsi les modifications ne seront pas documentées
