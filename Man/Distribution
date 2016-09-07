@@ -1,0 +1,29 @@
+  La Distribution, la modification et l'utilisation de PostInstall 
+ne sont soumise à aucune license. Il existe cependant des contraintes :
+
+  L'utilisation et la distribution sont autorisées si le nom de l'auteur
+(Olivier GOMEZ) est toujours visible et cité dans PostInstall
+Même en cas de modification, Olivier GOMEZ reste seul auteur de PostInstall
+(Contributeurs cités dans le fichier Contributions)
+Il est d'ailleur demandé de documenter ces modifications et de les transmettre
+pour améliorer PostInstall ou redistribuer le fork ainsi créé
+  Seul les forks officiels sont cités dans le fichier Contributions
+Les forks officiels auront des versions et notes de version differentes 
+de PostInstall et seront distribués en complement de la source et 
+non indépendamment
+
+  Un fork n'est officiel que si il repond à ces contraintes :
+Le nom de l'auteur du fork est cité
+Le nom de l'auteur de PostInstall est cité en plus de l'auteur du fork
+Le fork est cité dans le fichier Contributions de PostInstall
+Le fork est distribué avec PostInstall en tant qu'alternative
+Le fork est présenté comme étant optionnel/facultatif
+
+  Si une modification permet une nette amélioration de PostInstall
+celle-ci peut ne pas être considérée comme un fork mais directement intégrée
+dans le projet source. Son auteur sera cité à/aux lignes concernées
+  Si les modifications sont trop importantes, PostInstall deviendra lui-même
+un fork de sa source. Le dévellopement de la source ne sera pas arreté
+
+
+

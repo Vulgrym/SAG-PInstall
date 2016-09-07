@@ -1,0 +1,7 @@
+Liste des services fournis par PostInstall
+
+Installation des paquets (voir Paquets.list)
+Autoremove + purge gedit
+Téléchargement d'iso (debian 8.4 netinstall / PfSense)
+Remplacement de sources.list par celui fournis avec le Meta-Script
+Remplacement de bash.bashrc par celui fournis avec le Meta-Script

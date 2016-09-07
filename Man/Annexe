@@ -1,0 +1,9 @@
+(envrac)
+
+if [ $(dpkg-query -W -f='${Status}' $1 2>/dev/null | grep -c "ok installed") -eq 0 ];
+
+wget -c http://caesar.acc.umu.se/debian-cd/8.4.0/amd64/iso-cd/debian-8.4.0-amd64-netinst.iso
+
+if [  $(diff -q /etc/apt/sources.list /home/test/Documents/Prog/Docs/sources.list 2>/dev/null | grep -c "différents") -eq 1 ];
+
+su - -c "commande"

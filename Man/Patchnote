@@ -1,0 +1,11 @@
+20160403v2 : Création de PostInstall
+	code + Man + Docs
+
+20160404 : connection root automatisée
+
+20160405 : Lancement de script automatisé
+
+20160410 : Script téléchargement d'ISO (Deb et PfSense)
+	Ajout de quelques commentaires
+	Scripts secondaires situés dans Bin
+	Script ISO par install de virtualbox ou acces direct
