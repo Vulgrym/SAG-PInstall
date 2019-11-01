@@ -29,9 +29,6 @@ les réponses autorisées sont toujours indiquées (1,2,3...y,n)
 indisponibles pour le temps de dévellopement initial
 (il est possible de les activer en décommentant les lignes adéquates)
 
-  Actuellement PostInstall est distribué en .zip de main à main
-aucune solution d'hebergement ne correspondant aux critères de l'auteur
-  Une demande de distribution sous une autre compression est envisageable
   Après reception de PostInstall toute modification doit être documentée
 pour être ensuite transmise à l'auteur
 Pour les autres conditions de partage voir document 'Distribution'
