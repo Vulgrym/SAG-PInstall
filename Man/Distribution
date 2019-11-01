@@ -23,7 +23,4 @@ Le fork est présenté comme étant optionnel/facultatif
 celle-ci peut ne pas être considérée comme un fork mais directement intégrée
 dans le projet source. Son auteur sera cité à/aux lignes concernées
   Si les modifications sont trop importantes, PostInstall deviendra lui-même
-un fork de sa source. Le dévellopement de la source ne sera pas arreté
-
-
-
+un fork de sa source. Le dévellopement de la source ne sera pas arreté.
